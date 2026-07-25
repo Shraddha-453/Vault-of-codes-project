@@ -22,18 +22,6 @@ This project demonstrates the implementation of Core Java concepts such as Objec
 - User-Friendly Menu Interface
 
 
-
-## Technologies Used
-
-- Java
-- Visual Studio Code
-- Core Java
-- ArrayList
-- File Handling
-- Exception Handling
-
-
-
 ## Project Structure
 
 
@@ -46,15 +34,13 @@ SmartExpenseTracker/
 │── expenses.txt (Automatically created)
 ```
 
+->How to Run
 
-
-## How to Run
-
-### Step 1
+ Step 1
 
 Open the project folder in Visual Studio Code or any Java IDE.
 
-### Step 2
+Step 2
 
 Compile all Java files.
 
@@ -62,7 +48,7 @@ Compile all Java files.
 javac *.java
 ```
 
-### Step 3
+Step 3
 
 Run the application.
 
@@ -72,7 +58,7 @@ java Main
 
 ---
 
-## Menu Options
+Menu Options
 
 ```
 1. Add Income
@@ -84,41 +70,6 @@ java Main
 ```
 
 ---
-
-## Sample Output
-
-```
-=================================
- SMART EXPENSE TRACKER
-=================================
-
-1. Add Income
-2. Add Expense
-3. View Transactions
-4. Show Balance
-5. Delete Transaction
-6. Exit
-
-Enter your choice:
-```
-
-
-
-## Java Concepts Used
-
-- Classes and Objects
-- Constructors
-- Encapsulation
-- ArrayList
-- Methods
-- Loops
-- Switch Case
-- Exception Handling
-- File Handling
-- BufferedReader
-- BufferedWriter
-
-
 
 ## Advantages
 
