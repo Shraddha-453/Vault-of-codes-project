@@ -46,7 +46,7 @@ SmartExpenseTracker/
 │── expenses.txt (Automatically created)
 ```
 
----
+
 
 ## How to Run
 
@@ -102,7 +102,7 @@ java Main
 Enter your choice:
 ```
 
----
+
 
 ## Java Concepts Used
 
@@ -118,7 +118,7 @@ Enter your choice:
 - BufferedReader
 - BufferedWriter
 
----
+
 
 ## Advantages
 
@@ -128,7 +128,7 @@ Enter your choice:
 - Simple menu-driven interface
 - Good project for learning Core Java
 
----
+
 
 ## Limitations
 
@@ -137,7 +137,7 @@ Enter your choice:
 - Single-user application
 - No authentication system
 
----
+
 
 ## Future Enhancements
 
@@ -152,18 +152,4 @@ Enter your choice:
 - Export to Excel
 - Cloud Backup
 
----
 
-## Author
-
-**Name:** Your Name
-
-**Course:** Java Programming
-
-**Branch:** Electrical & Electronics Engineering
-
----
-
-## License
-
-This project is created for educational and academic purposes only.
