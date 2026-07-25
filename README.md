@@ -27,16 +27,15 @@ This project demonstrates the implementation of Core Java concepts such as Objec
 
 SmartExpenseTracker/
 
-│── Main.java
-│── Transaction.java
-│── ExpenseManager.java
-│── FileManager.java
-│── expenses.txt (Automatically created)
-```
+-Main.java
+-Transaction.java
+-ExpenseManager.java
+-FileManager.java
+-expenses.txt (Automatically created)
 
-->How to Run
 
- Step 1
+->How to Run:
+Step 1
 
 Open the project folder in Visual Studio Code or any Java IDE.
 
@@ -44,19 +43,15 @@ Step 2
 
 Compile all Java files.
 
-```
 javac *.java
-```
 
 Step 3
 
 Run the application.
 
-```
 java Main
-```
 
----
+
 
 Menu Options
 
@@ -69,9 +64,9 @@ Menu Options
 6. Exit
 ```
 
----
 
-## Advantages
+
+# Advantages
 
 - Easy to use
 - Lightweight application
@@ -81,7 +76,7 @@ Menu Options
 
 
 
-## Limitations
+# Limitations
 
 - Console-based interface
 - No graphical charts
@@ -90,7 +85,7 @@ Menu Options
 
 
 
-## Future Enhancements
+# Future Enhancements
 
 - Java Swing/JavaFX GUI
 - MySQL Database Integration
